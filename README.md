@@ -2,7 +2,7 @@
 
 ### About Me 👽
 
-I'm a CS undergraduate at **Simon Fraser University** with three years of experience in processing and analyzing retail sales data.
+I'm a fourth year CS undergraduate student at **Simon Fraser University**, with three years of experience in processing and analyzing retail sales data.
 
 🤖 Currently working on some cool machine learning projects
 
@@ -14,7 +14,7 @@ I'm a CS undergraduate at **Simon Fraser University** with three years of experi
 
 📧 You can send me an email at wendy_hwl@outlook.com
 
-📫 Also making connections on [LinkedIn](linkedin.com/in/wendyhwl)
+📫 Also making connections on [LinkedIn](https://www.linkedin.com/in/wendyhwl)
 
 🍜 My cookbook on [Instagram](https://www.instagram.com/holdmabowl/)
 
