@@ -2,7 +2,7 @@
 
 ### About Me 👽
 
-I'm a fourth year CS undergraduate student at **Simon Fraser University**, with three years of experience in processing and analyzing retail sales data.
+I'm a fourth year CS undergraduate student at **Simon Fraser University**, with three years of industry experience in processing and analyzing retail sales data.
 
 🤖  Currently working on some cool machine learning projects
 
