@@ -8,7 +8,7 @@ I'm a fourth year CS undergraduate student at **Simon Fraser University**, with 
 
 💻  I love coding and learning new technology
 
-💟  Passionate about digital marketing, cooking and cryptocurrency 
+💟  Passionate about topics in digital marketing, heath sciences, cooking and cryptocurrency 
 
 ### Reach Me 
 
@@ -16,6 +16,6 @@ I'm a fourth year CS undergraduate student at **Simon Fraser University**, with 
 
 📫  Also making connections on [LinkedIn](https://www.linkedin.com/in/wendyhwl)
 
-🍜  My cookbook on [Instagram](https://www.instagram.com/holdmabowl/)
+🍜  Or view my cookbook on [Instagram](https://www.instagram.com/holdmabowl/)
 
 
