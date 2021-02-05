@@ -8,7 +8,7 @@ I'm a fourth year CS undergraduate student at **Simon Fraser University**, with 
 
 💻  I love coding and learning new technology
 
-💟  Passionate about topics in digital marketing, heath sciences, cooking and cryptocurrency 
+💟  Passionate about topics in digital marketing,health sciences, mobile gaming, cooking and cryptocurrency 
 
 ### Reach Me 
 
