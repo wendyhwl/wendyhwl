@@ -2,13 +2,13 @@
 
 ### About Me 👽
 
-I'm a fourth year CS undergraduate student at **Simon Fraser University**, with three years of industry experience in processing and analyzing retail sales data.
+I'm a recent grad at **Simon Fraser University**, with three years of industry experience analyzing retail sales and marketing data.
 
-🤖  Currently working on some cool machine learning projects
+🤖  Currently working on some cool data projects
 
-💻  I love coding and learning new technology
+💻  I love learning new technology and I can pick up a new software/language quickly
 
-💟  Passionate about topics in digital marketing,health sciences, mobile gaming, cooking and cryptocurrency 
+💟  I'm passionate about topics in digital marketing strategy, mobile gaming, health science, cooking and cryptocurrency 
 
 ### Reach Me 
 
