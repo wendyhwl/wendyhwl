@@ -2,7 +2,7 @@
 
 ### About Me 👽
 
-I'm a recent grad from **Simon Fraser University** with three years of industry experience analyzing retail sales and marketing data. I love using data simplify a complex business problem and provide actionable insights for companies.
+I'm a recent grad from **Simon Fraser University** with three years of industry experience analyzing retail sales and marketing data. I love using data to simplify complex business problems and provide actionable insights for companies.
 
 🤖  Currently working on some cool data projects
 
