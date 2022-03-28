@@ -8,11 +8,11 @@ I'm a recent grad from **Simon Fraser University** with three years of industry 
 
 💻  I love learning new technology and I can pick up a new software/language quickly
 
-💟  I'm passionate about topics in digital marketing strategy, mobile gaming, health science, cooking and cryptocurrency 
+💟  I'm passionate about topics in digital marketing, gaming, cooking and crypto
 
 ### Reach Me 
 
-📧  You can send me an email at wendy_hwl@outlook.com
+📧  You can send me an email at wendyhwl29@gmail.com
 
 📫  Also making connections on [LinkedIn](https://www.linkedin.com/in/wendyhwl)
 
